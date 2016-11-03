@@ -1,0 +1,5 @@
+  3  0.001          N, FUNCTION TOLERANCE
+  0.5  1.0  0.5     INITIAL STARTING VECTOR
+  1.   0.   0.      INITIAL BASIS VECTOR(S) (N X N)
+  0.   1.   0.
+  0.   0.   1.
